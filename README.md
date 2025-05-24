@@ -38,9 +38,6 @@ Este repositorio contiene materiales y recursos relacionados con la asignatura d
 3. Realiza tus cambios y haz un commit (`git commit -m "Añadir nueva funcionalidad"`).
 4. Envía un pull request para revisión.
 
-## Ejemplo Visual
-![Diagrama de Clases](Apuntes/imagenes/diagrama_clases.png)
-
 ## Licencia
 Este repositorio está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
