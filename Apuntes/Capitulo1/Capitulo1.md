@@ -15,8 +15,8 @@
     - Un posible conjunto de datos=> _Campos, propiedades, o ambos ( depende del lenguaje que se utilice)._
     - Un conjunto de operaciones a realizar sobre ellos ( **métodos**), constructores y destructores.
 >[!TIP]
-> :bulb: **Nota:** todos estos elementos son conocidos como **miembros**.
-
+>**Nota:** todos estos elementos son conocidos como **miembros**.
+<!--:bulb:-->
 [!]
 - A partir de una clase se podrán instanciar tantos objetos de esta como sean necesarios.
 
