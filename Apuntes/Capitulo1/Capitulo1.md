@@ -30,7 +30,7 @@
 - **Area superior**: muestra el nombre de la clase representada **(_Persona_)**
 - **Area inferior**: recoge los diferentes _métodos_ de la clase (en este caso solo tenemos el método constructor _persona_).
 
-<img src="capturas\clasePersona.png" alt="Diagrama de clase UML" width="400" height="400">
+<img src="../capturas/clasePersona.png" alt="clase persona" width="400" height="400">
 
 _Código de la clase_
 
