@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Persona
+comment0.text=\r\n\ Clase\ para\ asimiliar\ los\ conceptos\ del\ tema\ 1.\r\n\ \r\n\ @author\ Sergio\ Sanchez\ \r\n\ @version\ 1.0.0\r\n
+comment1.params=nombre\ apellidos\ edad\ dni
+comment1.target=Persona(java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ de\ Persona.\r\n\r\n\ @param\ nombre\ \ \ \ \ nombre\ de\ la\ persona\r\n\ @param\ apellidos\ \ apellidos\ de\ la\ persona\r\n\ @param\ edad\ \ \ \ \ \ \ edad\ de\ la\ persona\r\n\ @param\ dni\ \ \ \ \ \ \ \ dni\ de\ la\ pesona\r\n
+numComments=2
